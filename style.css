@@ -87,7 +87,7 @@ button:hover {
     background-color: rgb(26, 113, 20); /* define fundo branco */
     padding: 25px; /* adiciona espaço interno */
     border-radius: 10px; /* arredonda os cantos */
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15); /* adiciona sombra suave */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.973); /* adiciona sombra suave */
 }
 
 /* estiliza os subtítulos da seção de informações */
